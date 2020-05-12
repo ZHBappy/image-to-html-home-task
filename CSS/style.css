@@ -1,0 +1,42 @@
+/*header start*/
+header{
+background-color: white;
+
+}
+.wrapper{
+overflow: hidden;
+width: 90%;
+margin:0 auto;
+
+}
+.logo {
+width: 25%;
+float:left;
+}
+.logo img{
+width: 100%;
+}
+.menu {
+width: 70%;
+float:right;
+margin-top: 10px;
+}
+.menu ul{}
+.menu ul li{
+list-style: none;
+float: left;
+}
+.menu ul li a{
+font-family: sans-serif; 
+font-weight: ;
+font-size: 20px;
+color: 95A7AE; 
+text-decoration: none;
+padding: 0 40px;
+display: inline-block;
+text-transform: uppercase;
+
+}
+
+
+/*header end*/*
